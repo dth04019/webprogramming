@@ -8,7 +8,7 @@
 </head>
 <body>
 	<footer class="container">
-		<p>&copy; WebMarket</p>
+		<p>&copy; WebMarket LJH</p>
 	</footer>
 </body>
 </html>
